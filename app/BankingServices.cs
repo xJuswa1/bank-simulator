@@ -13,7 +13,7 @@ namespace ATMApp.Services
         {
             return false; //placeholder return value, replace with actual implementation
         }
-
+        
         // Option 3: ref + out (Withdraw)
         public static void Withdraw(
             ref double balance,
